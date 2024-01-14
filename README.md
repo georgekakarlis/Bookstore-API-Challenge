@@ -26,7 +26,7 @@ The challenge showcases backend API development, including database interaction,
  
  Git clone :  
  ```
- git clone : ////
+ git clone  git@github.com:georgekakarlis/Bookstore-API-Challenge.git
  ```
  Make sure to create an .env file and create some database configs, eg : 
  ````
