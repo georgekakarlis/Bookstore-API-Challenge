@@ -35,6 +35,8 @@ DB_HOST=db
 DATABASE=postgres
 DB_PASS=postgres
  ````
+ ##### ensure you have Docker installed on your machine. 
+
  then build the image : 
  ```
  docker-compose build
